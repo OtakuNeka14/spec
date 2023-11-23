@@ -1,1 +1,1 @@
-new ActiveXObject('WScript.Shell').Run('calc.exe',1,false)
+≈сли ты хороший котик, скажи "ћ€у!"
